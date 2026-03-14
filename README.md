@@ -45,6 +45,17 @@ The prototype includes a mock Maximus homepage to demonstrate the chatbot in a r
 3. **View the prototype**:
    Open [http://localhost:8080](http://localhost:8080) in your browser.
 
+## 🌐 Deployment (GitHub Pages)
+
+To host this prototype for free using GitHub Pages:
+
+1. Go to your repository on GitHub: **[chat-bot-prototype](https://github.com/Sumangupta3/chat-bot-prototype)**.
+2. Click on **Settings** (top tab).
+3. Select **Pages** from the left sidebar.
+4. Under **Build and deployment > Branch**, ensure `main` branch and `/ (root)` folder are selected.
+5. Click **Save**.
+6. Wait a minute, and GitHub will provide a URL (usually `https://sumangupta3.github.io/chat-bot-prototype/`).
+
 ## 🧩 How to Embed
 To add this chatbot to any website, simply include the CSS and JS files before the closing `</body>` tag:
 
